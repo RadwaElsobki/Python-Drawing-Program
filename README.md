@@ -15,3 +15,8 @@ If you're intersted in a paid subscription with GitPod use the coupon code: **TE
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/techwithtim/Python-Drawing-Program/blob/master/main.py)
 
 Please Note: The GUI is a little glithcy in GitPod. For best results expand the VNC window to be full screen.
+
+# Repo challenges faced to be solved 
+
+1- realizeing that pygame is not installed 
+![1.png](./media/1.png)
